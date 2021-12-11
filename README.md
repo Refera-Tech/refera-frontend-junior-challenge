@@ -29,9 +29,7 @@ We use React in the FrontEnd of our real application, but feel comfortable choos
 
 Use the images below as an example, but try something more like a real application.
 
-![image](./images/FormExample.png)
-
-![image](./images/listViewExample.png)
+![image](./images/listViewExample.png)  ![image](./images/FormExample.png)
 
 ## Acceptance criteria
 
